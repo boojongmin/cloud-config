@@ -1,2 +1,8 @@
 zuul: proxy
 server.port=8080
+
+zuul:
+  routes:
+    users:
+      path: /cloud-client/**
+      serviceId: cloud-client
