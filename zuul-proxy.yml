@@ -1,0 +1,2 @@
+zuul: proxy
+server.port=8080

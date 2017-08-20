@@ -1,1 +1,2 @@
 cloud-client: client1
+server.port: 8081
